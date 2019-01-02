@@ -1,0 +1,19 @@
+{
+  "name": "slacklike",
+  "version": "1.0.0",
+  "description": "Javascript Application that emulates slack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VLegatus/SlackLike.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VLegatus/SlackLike/issues"
+  },
+  "homepage": "https://github.com/VLegatus/SlackLike#readme"
+}
